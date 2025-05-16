@@ -1,0 +1,9 @@
+name: cv_cuda
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pip
+  - pip:
+    - -r file:requirements.txt

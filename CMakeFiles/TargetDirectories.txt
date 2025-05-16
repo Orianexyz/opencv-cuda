@@ -1,0 +1,3 @@
+/home/quantium/labs/oriane/VideoCropper-lambda/opencv-cuda/test/CMakeFiles/my_gpu_app.dir
+/home/quantium/labs/oriane/VideoCropper-lambda/opencv-cuda/test/CMakeFiles/edit_cache.dir
+/home/quantium/labs/oriane/VideoCropper-lambda/opencv-cuda/test/CMakeFiles/rebuild_cache.dir
